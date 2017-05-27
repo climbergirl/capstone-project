@@ -40,7 +40,7 @@ header .content{
   max-width: 1000px;
   margin: 0 auto;
 }
-.logo{
+.logo-desktop{
   display: flex;
   align-items: center;
   text-transform: uppercase;
