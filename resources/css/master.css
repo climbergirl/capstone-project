@@ -20,6 +20,7 @@ h4{
 p{
   font-size: 0.8rem;
 }
+
 .body-padding{
   padding-top:4rem;
 }
@@ -46,7 +47,7 @@ header .content{
   text-transform: uppercase;
   color:#a7b1ff;
 }
-.logo strong{
+.logo-desktop strong{
   font-weight: bold;
   color:#2d367f;
 }
@@ -112,6 +113,9 @@ nav ul{
   font-weight: bold;
   color: #183468;
 }
+.button .fa{
+  padding-left: 1rem;
+}
 .button:hover{
   background-color: #B2952E;
   transition-property: background-color;
@@ -167,6 +171,14 @@ nav ul{
 }
 .quote {
   font-size: 0.9rem;
+  padding-left: 1.5rem;
+  line-height: 1.4;
+}
+.fa-quote-left{
+  padding-right: 0.5rem;
+}
+.fa-quote-right{
+  padding-left: 0.5rem;
 }
 .container{
   padding-top: 1rem;
